@@ -53,19 +53,10 @@ Currently focused on strengthening:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakshith-web-dev&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshith-web-dev&theme=tokyo-night" />
 
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rakshith-web-dev&layout=compact&theme=tokyonight" />
-</p>
 ---
 
 # 🔥 GitHub Streak
