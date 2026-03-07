@@ -75,9 +75,9 @@ Currently focused on strengthening:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Rakshith-web-dev/Rakshith-web-dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rakshith-web-dev/Rakshith-web-dev/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
