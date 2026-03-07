@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rakshith G M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student;Machine+Learning+Engineer+in+Progress;DSA+Practitioner;Python+Developer;Future+FAANG+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student;Machine+Learning+Engineer+in+Progress;DSA+Practitioner;Python+Developer&center=true&width=500&height=45">
 </p>
 
 ---
