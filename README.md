@@ -55,14 +55,14 @@ Currently focused on strengthening:
 
 ## 📈 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshith-web-dev&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshith-G-M&theme=tokyo-night" />
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Rakshith-web-dev&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Rakshith-G-M&theme=tokyonight" />
 </p>
 
 ---
@@ -77,14 +77,14 @@ Currently focused on strengthening:
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Rakshith-web-dev/Rakshith-web-dev/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Rakshith-web-dev/Rakshith-G-M/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 # 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rakshith-web-dev&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Rakshith-G-M&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
